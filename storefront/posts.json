@@ -1,0 +1,30 @@
+[
+    { 
+        "title": "My Updated Post",
+        "content": "I feel this should be a blog but I have a goal ande that is to complete this django tutorials and understand it before the end of the first half of April",
+        "user_id": "2"
+    },
+
+    {
+        "title": "blockchain",
+        "content": "I intend to creete my own coin but such that it wouldbe a transition from fiat currency to cryptocurrency",
+        "user_id": "1"
+    },
+
+
+    {
+        "title": "blockchain and solidity",
+        "content": "I intend to creete my own coin but i would still love to use probably just python to do that but then i feel solidity would be my best bet",
+        "user_id": "1"
+
+    },
+
+
+    {
+        "title": "front-end vs back-end",
+        "content":"I love when a website looks aesthetic and all b ut i actually find css and bootstrap very boring to be very honest, i feel a little better with django, maybe because its stil just python all the same",
+        "user_id": "3"
+
+    }
+
+]
